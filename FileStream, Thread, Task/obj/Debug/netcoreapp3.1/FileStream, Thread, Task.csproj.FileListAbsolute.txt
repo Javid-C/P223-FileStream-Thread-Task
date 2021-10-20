@@ -1,0 +1,14 @@
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\bin\Debug\netcoreapp3.1\FileStream, Thread, Task.exe
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\bin\Debug\netcoreapp3.1\FileStream, Thread, Task.deps.json
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\bin\Debug\netcoreapp3.1\FileStream, Thread, Task.runtimeconfig.json
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\bin\Debug\netcoreapp3.1\FileStream, Thread, Task.runtimeconfig.dev.json
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\bin\Debug\netcoreapp3.1\FileStream, Thread, Task.dll
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\bin\Debug\netcoreapp3.1\FileStream, Thread, Task.pdb
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\obj\Debug\netcoreapp3.1\FileStream, Thread, Task.csproj.AssemblyReference.cache
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\obj\Debug\netcoreapp3.1\FileStream, Thread, Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\obj\Debug\netcoreapp3.1\FileStream, Thread, Task.AssemblyInfoInputs.cache
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\obj\Debug\netcoreapp3.1\FileStream, Thread, Task.AssemblyInfo.cs
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\obj\Debug\netcoreapp3.1\FileStream, Thread, Task.csproj.CoreCompileInputs.cache
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\obj\Debug\netcoreapp3.1\FileStream, Thread, Task.dll
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\obj\Debug\netcoreapp3.1\FileStream, Thread, Task.pdb
+C:\Users\nijat\source\repos\FileStream, Thread, Task\FileStream, Thread, Task\obj\Debug\netcoreapp3.1\FileStream, Thread, Task.genruntimeconfig.cache
